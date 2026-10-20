@@ -1,0 +1,301 @@
+{
+  "slug": "bellitia",
+  "negocio": {
+    "nome": "Clínica Bellitia",
+    "whatsapp": "5561999814845",
+    "logo": "brand/logo.png",
+    "unidades": [
+      {
+        "bairro": "Asa Sul · Brasília/DF",
+        "endereco": "SRTVS Quadra 701, Bloco D, Ed. Brasília Design Center, térreo, lojas 9 e 10",
+        "telefone": "(61) 99981-4845",
+        "horario": "Com hora marcada · 9h às 18h"
+      }
+    ]
+  },
+  "marca": {
+    "brand": "#415941",
+    "brand2": "#324532",
+    "ink": "#263426",
+    "bg": "#FFF6EB",
+    "pulse": "#CB9D8C",
+    "radius": "4px",
+    "registro": "editorial",
+    "fontDisplay": "Playfair Display",
+    "fontBody": "Jost",
+    "tomHero": "claro",
+    "tomCorpo": "claro"
+  },
+  "motivo": "camadas",
+  "secoes": [
+    {
+      "id": "header",
+      "variant": "sticky-cta",
+      "data": {
+        "links": [
+          {
+            "texto": "Serviços",
+            "href": "#tratamentos"
+          },
+          {
+            "texto": "Equipe",
+            "href": "#equipe"
+          },
+          {
+            "texto": "Dúvidas",
+            "href": "#faq"
+          },
+          {
+            "texto": "Onde fica",
+            "href": "#unidades"
+          }
+        ]
+      }
+    },
+    {
+      "id": "hero",
+      "variant": "split-motivo",
+      "data": {
+        "eyebrow": "Estética · Asa Sul",
+        "h1": "Massagem, pele e pés, sem pressa",
+        "lead": "Massagens, tratamento facial, podologia e osteopatia no Brasília Design Center, há mais de vinte anos. Tudo começa pela ficha de anamnese: o cuidado parte do que você conta.",
+        "cta": "Agendar pelo WhatsApp",
+        "ctaSecundario": "Ver serviços",
+        "ctaSecundarioHref": "#tratamentos",
+        "selo": "Relaxe · Renove-se · Renasça · Asa Sul · ",
+        "arte": "grao"
+      }
+    },
+    {
+      "id": "fita",
+      "data": {
+        "itens": [
+          "Massagem revigorante",
+          "Drenagem linfática",
+          "Tratamento facial",
+          "Peeling",
+          "Podoprofilaxia",
+          "Unha encravada",
+          "Osteopatia",
+          "Reflexologia",
+          "Massagem desportiva",
+          "Pedras quentes"
+        ]
+      }
+    },
+    {
+      "id": "numeros",
+      "variant": "faixa",
+      "data": {
+        "titulo": "Quem volta, volta há anos",
+        "itens": [
+          {
+            "valor": "5,0",
+            "rotulo": "de nota no Google, em 127 avaliações"
+          },
+          {
+            "valor": "20+",
+            "rotulo": "anos de clínica em Brasília",
+            "contar": 20
+          },
+          {
+            "valor": "160+",
+            "rotulo": "certificados da Cristina Batelli em estética",
+            "contar": 160
+          },
+          {
+            "valor": "2 h",
+            "rotulo": "de tratamento facial, da anamnese ao filtro solar"
+          }
+        ]
+      }
+    },
+    {
+      "id": "manifesto",
+      "variant": "faixa",
+      "data": {
+        "eyebrow": "Por que a Bellitia existe",
+        "citacao": "Antes de abrir, a gente pesquisou as clínicas de estética de Brasília. Quase todas ofereciam a mesma coisa, do mesmo jeito.",
+        "texto": [
+          "A Bellitia nasceu dessa constatação, há mais de duas décadas: montar o atendimento a partir de quem chega, e não de um cardápio fechado. A pele de quem toma sol todo fim de semana não pede o mesmo cuidado da pele de quem passa o dia no ar-condicionado.",
+          "Por isso existe a ficha antes da massagem, da podologia e do tratamento de pele. E por isso dizemos com clareza o que cada procedimento entrega, antes de começar."
+        ]
+      }
+    },
+    {
+      "id": "tratamentos",
+      "variant": "pilha",
+      "data": {
+        "titulo": "Serviços",
+        "lead": "Do corpo cansado à unha encravada, com a profissional de cada área cuidando do que é dela.",
+        "itens": [
+          {
+            "nome": "Massagem revigorante",
+            "descricao": "A massagem da casa: ventosa, pedras quentes e óleos essenciais escolhidos para você. Pensada para semanas de estresse alto, trabalho acumulado ou tensão que não sai do ombro."
+          },
+          {
+            "nome": "Massagem terapêutica e relaxante",
+            "descricao": "Para dor muscular, sono ruim e ansiedade. Adaptada a idosos, a quem treina e a quem convive com artrite ou artrose. Para quem treina pesado, há também a desportiva, de recuperação muscular."
+          },
+          {
+            "nome": "Drenagem linfática",
+            "descricao": "Manual, para inchaço, retenção de líquido e celulite. Também feita no pós-operatório de cirurgia plástica e na gestação ou no pós-parto, com a liberação do obstetra."
+          },
+          {
+            "nome": "Tratamento facial",
+            "descricao": "Não é só limpeza de pele. Começa pela anamnese e segue com limpeza, vapor, extração, peeling, máscara, hidratação e filtro solar. Para acne, melasma, manchas, rosácea e flacidez.",
+            "duracao": "2 horas"
+          },
+          {
+            "nome": "Podologia",
+            "descricao": "Podoprofilaxia completa, micose de unha, verruga plantar e unha encravada, com laser e órtese de fibra molecular, que corrige a curvatura da unha sem dor. A unha encravada inclui até dois curativos e dois retornos."
+          },
+          {
+            "nome": "Osteopatia",
+            "descricao": "Avaliação e técnica manual para dor lombar, cervical e torácica, dor de cabeça, ATM, ciático e para a postura de quem passa o dia sentado."
+          }
+        ]
+      }
+    },
+    {
+      "id": "passos",
+      "variant": "timeline",
+      "data": {
+        "titulo": "Como funciona",
+        "lead": "Do primeiro contato à próxima sessão, sabendo o que esperar.",
+        "itens": [
+          {
+            "titulo": "Conversa pelo WhatsApp",
+            "texto": "Você conta o que está sentindo ou o que quer tratar. O horário é marcado por ali mesmo."
+          },
+          {
+            "titulo": "Ficha de anamnese",
+            "texto": "Remédios, rotina, exposição ao sol, histórico. É ela que decide a técnica, o produto e a pressão de cada atendimento."
+          },
+          {
+            "titulo": "Atendimento",
+            "texto": "Com a profissional da área: a Cris na pele, a Lucilla nos pés. Sem pressa e sem excesso de produto."
+          },
+          {
+            "titulo": "Próxima sessão",
+            "texto": "Você sai sabendo se faz sentido voltar e quando. Tratamento de pele e de unha costuma pedir continuidade."
+          }
+        ]
+      }
+    },
+    {
+      "id": "corpo-clinico",
+      "variant": "monograma",
+      "data": {
+        "titulo": "Quem cuida de você",
+        "itens": [
+          {
+            "nome": "Cristina Batelli",
+            "registro": "Proprietária · especialista em estética",
+            "especialidade": "Responsável por todos os tratamentos de pele, há 20 anos na Bellitia"
+          },
+          {
+            "nome": "Maria Lucilla Quintanilha",
+            "registro": "Podóloga · Escola Técnica de Saúde do DF",
+            "especialidade": "Micose de unha, unha encravada, laserterapia e ácidos, há 20 anos"
+          },
+          {
+            "nome": "Humberto",
+            "registro": "Gerente de atendimento",
+            "especialidade": "Recebe cada cliente e cuida da agenda, há 10 anos na clínica"
+          }
+        ]
+      }
+    },
+    {
+      "id": "depoimentos",
+      "variant": "citacoes",
+      "data": {
+        "titulo": "Quem frequenta",
+        "itens": [
+          {
+            "texto": "Há anos recebo os cuidados da Cris e a cada dia me encanto mais.",
+            "autor": "Maria Lucia Caldas Pereira",
+            "contexto": "Tratamento de pele"
+          },
+          {
+            "texto": "Há anos eu frequento a Clínica Bellitia, pelo ambiente adequado, higiene perfeita, atendimento profissional, simpatia e empatia com os clientes.",
+            "autor": "Maria Diacuy Teixeira",
+            "contexto": "Cliente"
+          },
+          {
+            "texto": "Sabemos que ali seremos bem cuidadas, serão usados os melhores produtos e técnicas para cada caso, sem excessos.",
+            "autor": "Polianna Nogueira",
+            "contexto": "Cliente"
+          }
+        ]
+      }
+    },
+    {
+      "id": "faq",
+      "variant": "acordeao",
+      "data": {
+        "titulo": "Dúvidas frequentes",
+        "itens": [
+          {
+            "p": "O tratamento facial é uma limpeza de pele?",
+            "r": "É mais que isso. São cerca de duas horas: anamnese, limpeza com esfoliação, vapor, extração, peeling para equilibrar o pH, máscara, hidratação e filtro solar. Você sai com orientação sobre os cosméticos de casa."
+          },
+          {
+            "p": "Posso fazer drenagem linfática depois de uma cirurgia plástica?",
+            "r": "Pode, e é um dos usos mais comuns. Na gestação e no pós-parto também, desde que o obstetra libere."
+          },
+          {
+            "p": "A órtese para unha encravada dói?",
+            "r": "A aplicação é indolor. A órtese de fibra molecular puxa a unha de volta para a curvatura certa aos poucos, e a manutenção é feita aqui na clínica."
+          },
+          {
+            "p": "Massagem serve para quem tem artrose ou já é idoso?",
+            "r": "Serve. A massagem terapêutica é adaptada à condição de cada pessoa, e a ficha de anamnese existe justamente para a profissional saber disso antes de começar."
+          },
+          {
+            "p": "Quanto custa?",
+            "r": "A podologia começa em R$ 165, a massagem em R$ 200, o tratamento facial em R$ 350 e a osteopatia em R$ 380. O valor final depende do que for indicado, e a recepção passa pelo WhatsApp antes de você marcar."
+          }
+        ]
+      }
+    },
+    {
+      "id": "unidades",
+      "variant": "unica",
+      "data": {
+        "titulo": "Onde fica"
+      }
+    },
+    {
+      "id": "cta-final",
+      "variant": "bloco-cheio",
+      "data": {
+        "h2": "Marque o seu horário",
+        "lead": "Conte pelo WhatsApp o que está sentindo ou o que quer tratar. A recepção encontra o horário com a profissional certa.",
+        "cta": "Conversar no WhatsApp"
+      }
+    },
+    {
+      "id": "footer",
+      "variant": "completo",
+      "data": {
+        "links": [
+          {
+            "texto": "Instagram",
+            "href": "https://www.instagram.com/clinicabellitia/"
+          },
+          {
+            "texto": "WhatsApp",
+            "href": "https://wa.me/5561999814845"
+          },
+          {
+            "texto": "E-mail",
+            "href": "mailto:bellitia@gmail.com"
+          }
+        ],
+        "aviso": "Resultados variam de pessoa para pessoa e dependem de avaliação individual. Osteopatia e drenagem no pós-operatório não substituem acompanhamento médico."
+      }
+    }
+  ]
+}
